@@ -6,8 +6,8 @@ data_file = 'data.txt';  % 输入文件
 output_file = 'out1.txt'; % 输出文件
 
 % 设置筛选范围（[最小值, 最大值]）
-lon_range = [20, 30];  % 经度范围20-50
-lat_range = [35, 45];  % 纬度范围35-45
+lon_range = [, ];  % 经度范围
+lat_range = [, ];  % 纬度范围
 
 % 统一地球半径 (m)
 R = 6370e6;  % 6371 km 转换为 mm
